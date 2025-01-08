@@ -13,15 +13,23 @@ Dynamic Buttons: Each task has a "Complete" and "Delete" button for easy managem
 
 **🔧 How It Works**
 ------------------------------------------------------------------------------------------------------------------------------------------
-**Add Tasks:** Enter a task in the input field and click the "Add Task" button.
+**Add Tasks:** 
+
+ Enter a task in the input field and click the "Add Task" button.
  The task is added to the list and stored in local storage.
 
-**Mark as Complete:** Click the "Complete" button to mark a task as completed.
+**Mark as Complete:**
+
+ Click the "Complete" button to mark a task as completed.
  Completed tasks are visually distinguished.
 
-**Delete Tasks:** Use the "Delete" button to remove a specific task from the list.
+**Delete Tasks:** 
 
-**Clear All Tasks:**Click the "Clear All Tasks" button to remove all tasks.
+Use the "Delete" button to remove a specific task from the list.
+
+**Clear All Tasks:**
+
+Click the "Clear All Tasks" button to remove all tasks.
  The button is hidden if there are no tasks in the list.
 
 **🛠️ Technologies Used**
