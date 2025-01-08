@@ -33,6 +33,10 @@ export default function App() {
 
   };
 
+  const clearTasks = () => {
+    setTasks([]);
+  };
+
   return (
     <div className='App'>
       <header className="bg-gray-900 py-6 px-4 shadow-md">
@@ -55,6 +59,11 @@ export default function App() {
       <TaskList tasks={tasks}
       updateTask={updateTask}
       deleteTask={deleteTask}/>
+
+      {tasks.length>0 && (
+        <button className = "clear-btn" onClick={clearTasks}>Clear All tasks
+        </button>
+      )}
     </div>
   )
 }
