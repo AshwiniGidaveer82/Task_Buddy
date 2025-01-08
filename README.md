@@ -52,4 +52,4 @@ Click the "Clear All Tasks" button to remove all tasks.
 ------------------------------------------------------------------------------------------------------------------------------------------
 **Clone the repository:**
 
-git clone https://github.com/AshwiniGidaveer82/Task_Buddy.gitnify)
+git clone (https://github.com/AshwiniGidaveer82/Task_Buddy))
